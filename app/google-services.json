@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048028618176",
+    "firebase_url": "https://chatappjavaandroid-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatappjavaandroid",
+    "storage_bucket": "chatappjavaandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048028618176:android:3ce167a538f40a14a13c25",
+        "android_client_info": {
+          "package_name": "com.mszgajewski.chatappjavaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048028618176-9f4jvrtoeeno0c6ahjhio6mbpku4b3ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mszgajewski.chatappjavaandroid",
+            "certificate_hash": "f87d980cc5235128de33fc7f1f0593e8602cd38a"
+          }
+        },
+        {
+          "client_id": "1048028618176-jd19a55fios8ojo6hp4q3lok28nsasdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3t3erbGrCLj_nLYyiLwHCoYlU-EuUxt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048028618176-jd19a55fios8ojo6hp4q3lok28nsasdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
