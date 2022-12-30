@@ -10,4 +10,6 @@
     <color name="theme_colour">#2176FF</color>
     <color name="theme_colour_80">#CC2176FF</color>
     <color name="theme_color_8">#142176FF</color>
+    <color name="light_8">#14000000</color>
+
 </resources>
